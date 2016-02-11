@@ -1,0 +1,24 @@
+_repo: Erchie-My-Droll-Friend_47991
+creator:
+  author:
+    agent_name: Munro, Neil
+    alias: Foulis, Hugh
+    birthdate: 1864
+    deathdate: 1930
+    gutenberg_agent_id: '9862'
+    url: http://www.gutenberg.org/2009/agents/9862
+description: ''
+gutenberg_issued: '2015-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waiters -- Fiction'
+- !lcsh 'Glasgow (Scotland) -- Fiction'
+- !lcc 'PR'
+title: Erchie, My Droll Friend
+url: http://www.gutenberg.org/ebooks/47991
